@@ -1,6 +1,6 @@
 # CustomAltiumLibraries
  
-Here is a list with all the components that are made/stored and maintained in this repository:
+Here is a list with all the altium components that are made/stored and maintained in this repository:
 
 DISCLAIMER: I hold no responsibility for faults in footprints/component non-functionality.
 These are intended for my personal use and are shared as reference!
